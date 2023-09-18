@@ -1,9 +1,9 @@
 package pseudonymizer
 
 import (
-	"github.com/stee040/pseudonymization_go/encrypted_salt"
-	"github.com/stee040/pseudonymization_go/hasher"
-	"github.com/stee040/pseudonymization_go/normalizer"
+	"github.com/stee0640/pseudonymization_go/encrypted_salt"
+	"github.com/stee0640/pseudonymization_go/hasher"
+	"github.com/stee0640/pseudonymization_go/normalizer"
 )
 
 type pseudonymizer struct {

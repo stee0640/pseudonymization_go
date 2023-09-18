@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/stee040/pseudonymization_go/hasher"
+	"github.com/stee0640/pseudonymization_go/hasher"
 
 	"golang.org/x/term"
 )

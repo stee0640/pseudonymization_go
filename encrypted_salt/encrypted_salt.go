@@ -3,7 +3,7 @@ package encrypted_salt
 import (
 	"encoding/hex"
 
-	"github.com/stee040/pseudonymization_go/encryption"
+	"github.com/stee0640/pseudonymization_go/encryption"
 )
 
 const NONCE_BYTES uint = 12

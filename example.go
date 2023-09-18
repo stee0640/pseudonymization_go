@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/stee040/pseudonymization_go/pseudonymizer"
-	"github.com/stee040/pseudonymization_go/salts_repo"
-	"github.com/stee040/pseudonymization_go/storage_password"
+	"github.com/stee0640/pseudonymization_go/pseudonymizer"
+	"github.com/stee0640/pseudonymization_go/salts_repo"
+	"github.com/stee0640/pseudonymization_go/storage_password"
 )
 
 func readSource(fileName string) []string {
