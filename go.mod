@@ -1,4 +1,4 @@
-module github.com/stee040/pseudonymization_go
+module github.com/stee0640/pseudonymization_go
 
 go 1.20
 
